@@ -2,7 +2,7 @@
 # Python 3.8+ required
 
 # Core Computer Vision
-opencv-python>=4.13.0
+opencv-python-headless>=4.8.0
 
 # Numerical Computing
 numpy>=2.0.0
